@@ -1,0 +1,124 @@
+.navegacion{
+    background-color: rgba(255, 129, 91, 0.815) !important;
+}
+
+.elementos{
+    color: white;
+}
+.elementos:hover{
+    color: rgb(255, 164, 164);
+}
+
+.voton{
+    border: #0000;
+    filter: invert(1);
+}
+
+.imge{
+    padding-right: 0px;
+}
+
+.paes{
+    color: white;
+    background-color: rgb(39, 74, 233);
+}
+
+.paes:hover{
+    background-color: rgb(247, 82, 82);
+}
+
+body{
+    min-height:40vh;
+    overflow-x: hidden;
+}
+
+.fondo1{
+    background-image: url("../resources/img/fondo.jpg");
+    color: #00000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+.fondo2{
+    background-image: url("../resources/img/fondo2.jpg");
+    color: #00000000;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+
+.color{
+    color: white;
+}
+.carrusel{
+    margin: 20px auto;
+    border-radius: 10px;
+}
+.img-carrusel{
+    border-radius: 10px;
+    
+}
+
+.registra{
+    position: absolute;
+    right: 20%;
+}
+
+.efecto1{
+    color: rgb(116, 115, 115);
+    text-decoration: none;
+}
+
+.efecto1:hover{
+    transition: all ease 50ms;
+    color: greenyellow;
+
+}
+
+.efecto2{
+    color: rgb(116, 115, 115);
+    text-decoration: none;
+}
+
+.efecto2:hover{
+    transition: all ease 50ms;
+    color: red;
+
+}
+
+.clase{
+    list-style: none;
+    text-decoration: none;
+}
+
+.item:hover{
+    color: orange !important;
+}
+
+.mail{
+    color: rgb(255, 52, 52);
+}
+.wasa{
+    color: rgb(82, 255, 82);
+}
+.booc{
+    color: rgb(118, 88, 255);
+}
+.insta{
+    color: rgb(191, 52, 255);
+}
+
+.tarjeta{
+    color: black;
+}
+
+.uno{
+    background-color: #212529c0;
+    /* background-color: #212529; */
+    border-radius: 15px;
+}
+
